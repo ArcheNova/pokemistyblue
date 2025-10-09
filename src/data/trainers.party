@@ -1389,16 +1389,67 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle: No
-AI: Check Bad Move
+Double Battle: Yes
+AI: Check Bad Move / Try To Faint / Check Viability
 
-Weedle
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Beedrill @ Oran Berry
+Level: 10
+Ability: Swarm
+Nature: Jolly
+IVs: 20 HP / 20 Atk / 20 Def / 0 SpA / 20 SpD / 20 Spe
+- Fury Attack
+- Focus Energy
+- Protect
 
-Caterpie
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Butterfree @ Persim Berry
+Level: 10
+Ability: Compound Eyes
+Nature: Timid
+IVs: 20 HP / 0 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
+- Confusion
+- Gust
+- Stun Spore
+- Sleep Powder
+
+Ariados @ Cheri Berry
+Level: 11
+Ability: Insomnia
+Nature: Adamant
+IVs: 20 HP / 20 Atk / 20 Def / 0 SpA / 20 SpD / 20 Spe
+- Leech Life
+- Poison Sting
+- Shadow Sneak
+- String Shot
+
+Heracross @ Flame Orb
+Level: 12
+Ability: Guts
+Nature: Adamant
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
+- Aerial Ace
+- Brick Break
+- Endure
+- Fury Attack
+
+Pinsir @ Hard Stone
+Level: 12
+Ability: Mold Breaker
+Nature: Jolly
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Rock Tomb
+- X-Scissor
+- Quick Attack
+- Leer
+
+Scyther @ Silver Powder
+Level: 11
+Ability: Technician
+Nature: Adamant
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Quick Attack
+- Wing Attack
+- Fury Cutter
+- Focus Energy
 
 === TRAINER_BUG_CATCHER_DOUG ===
 Name: DOUG
@@ -1409,17 +1460,55 @@ Music: Male
 Double Battle: No
 AI: Check Bad Move
 
-Weedle
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Shuckle @ Leftovers
+Level: 10
+Ability: Sturdy
+Nature: Bold
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe
+- Sticky Web
+- Wrap
+- Rock Throw
+- Rest
 
-Kakuna
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Paras @ Oran Berry
+Level: 9
+Ability: Effect Spore
+Nature: Relaxed
+IVs: 20 HP / 20 Atk / 20 Def / 0 SpA / 20 SpD / 20 Spe
+- Leech Life
+- Stun Spore
+- Scratch
+- Growth
 
-Weedle
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Yanma @ Sitrus Berry
+Level: 10
+Ability: Speed Boost
+Nature: Timid
+IVs: 20 HP / 0 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
+- Air Slash
+- Quick Attack
+- Detect
+- U-Turn
+
+Venonat @ Persim Berry
+Level: 9
+Ability: Tinted Lens
+Nature: Modest
+IVs: 20 HP / 0 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
+- Confusion
+- Bug Bite
+- Supersonic
+- Disable
+
+Heracross @ Lum Berry
+Level: 12
+Ability: Moxie
+Nature: Jolly
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Brick Break
+- Aerial Ace
+- Endure
+- Knock Off
 
 === TRAINER_BUG_CATCHER_SAMMY ===
 Name: SAMMY
@@ -1427,12 +1516,68 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle: No
-AI: Check Bad Move
+Double Battle: Yes
+AI: Check Bad Move / Try To Faint / Check Viability
 
-Weedle
-Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Butterfree @ Wise Glasses
+Level: 10
+Ability: Compound Eyes
+Nature: Timid
+IVs: 25 HP / 0 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
+- Gust
+- Confusion
+- Sleep Powder
+- Quiver Dance
+
+Beedrill @ Focus Band
+Level: 10
+Ability: Sniper
+Nature: Jolly
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Poison Jab
+- U-Turn
+- Fury Attack
+- Protect
+
+Scyther @ Silver Powder
+Level: 11
+Ability: Technician
+Nature: Adamant
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Wing Attack
+- Quick Attack
+- Dual Wingbeat
+- Focus Energy
+
+Ariados @ Black Sludge
+Level: 11
+Ability: Insomnia
+Nature: Adamant
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Leech Life
+- Sucker Punch
+- Sticky Web
+- Cross Poison
+
+Pinsir @ Hard Stone
+Level: 12
+Ability: Mold Breaker
+Nature: Jolly
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Rock Tomb
+- X-Scissor
+- Quick Attack
+- Leer
+
+Scizor @ Metal Coat
+Level: 12
+Ability: Technician
+Nature: Adamant
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Bullet Punch
+- U-Turn
+- Knock Off
+- Protect
 
 === TRAINER_BUG_CATCHER_COLTON ===
 Name: COLTON
@@ -8412,47 +8557,141 @@ Class: Leader
 Pic: Leader Brock
 Gender: Male
 Music: Male
-Double Battle: No
+Items: Potion / Super Potion
+Double Battle: Yes
 AI: Check Bad Move / Try To Faint / Check Viability
 
 Geodude
-Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
+Level: 14
+Ability: Sturdy
+Nature: Impish
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
+- Rock Throw
+- Bulldoze
 - Defense Curl
+- Protect
 
 Onix
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Bind
+Level: 15
+Ability: Sturdy
+Nature: Impish
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
 - Rock Tomb
+- Sandstorm
+- Screech
+- Bind
+
+Kabuto
+Level: 15
+Ability: Swift Swim
+Nature: Adamant
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Aqua Jet
+- Harden
+- Protect
+
+Omanyte
+Level: 15
+Ability: Shell Armor
+Nature: Modest
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Water Gun
+- Ancient Power
+- Protect
+- Ice Beam
+
+Rhyhorn
+Level: 16
+Ability: Lightning Rod
+Nature: Adamant
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
+- Rock Blast
+- Stomp
+- Bulldoze
+- Protect
+
+Aerodactyl
+Level: 17
+Ability: Rock Head
+Tera Type: Rock
+Nature: Jolly
+IVs: 31 HP / 31 Atk / 31 Def / 0 SpA / 31 SpD / 31 Spe
+- Rock Slide
+- Wing Attack
+- Bite
+- Tailwind
 
 === TRAINER_LEADER_MISTY ===
 Name: MISTY
 Class: Leader
 Pic: Leader Misty
-Gender: Male
+Gender: Female
 Music: Female
-Items: Super Potion
-Double Battle: No
+Items: Super Potion / Hyper Potion
+Double Battle: Yes
 AI: Check Bad Move / Try To Faint / Check Viability
 
-Staryu
-Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Tackle
-- Harden
-- Recover
-- Water Pulse
+Politoed
+Level: 19
+Ability: Drizzle
+Nature: Calm
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Scald
+- Ice Beam
+- Hypnosis
+- Protect
+
+Lanturn
+Level: 19
+Ability: Volt Absorb
+Nature: Modest
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder
+- Surf
+- Ice Beam
+- Rain Dance
+
+Golduck
+Level: 20
+Ability: Swift Swim
+Nature: Timid
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Hydro Pump
+- Psychic
+- Calm Mind
+- Encore
+
+Lapras
+Level: 20
+Ability: Water Absorb
+Nature: Modest
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Surf
+- Freeze-Dry
+- Perish Song
+- Protect
+
+Vaporeon
+Level: 21
+Ability: Water Absorb
+Nature: Bold
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Muddy Water
+- Wish
+- Ice Beam
+- Rest
 
 Starmie
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Swift
+Ability: Natural Cure
+Tera Type: Electric
+Nature: Timid
+IVs: 31 HP / 0 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Thunder
+- Surf
 - Recover
-- Rapid Spin
-- Water Pulse
+- Icy Wind
 
 === TRAINER_LEADER_LT_SURGE ===
 Name: LT. SURGE
@@ -10873,16 +11112,68 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle: No
-AI: Check Bad Move
+Double Battle: Yes
+AI: Check Bad Move / Try To Faint / Check Viability
 
-Caterpie
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ariados @ Black Sludge
+Level: 9
+Ability: Insomnia
+Nature: Adamant
+IVs: 31 HP / 31 Atk / 20 Def / 0 SpA / 20 SpD / 31 Spe
+- Sticky Web
+- Leech Life
+- Poison Sting
+- Sucker Punch
 
-Caterpie
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Venonat @ Persim Berry
+Level: 9
+Ability: Tinted Lens
+Nature: Modest
+IVs: 20 HP / 0 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
+- Confusion
+- Bug Bite
+- Stun Spore
+- Disable
+
+Beedrill @ Focus Band
+Level: 10
+Ability: Swarm
+Nature: Jolly
+IVs: 31 HP / 31 Atk / 20 Def / 0 SpA / 20 SpD / 25 Spe
+- Poison Jab
+- Fury Cutter
+- U-Turn
+- Focus Energy
+
+Butterfree @ Wise Glasses
+Level: 10
+Ability: Compound Eyes
+Nature: Timid
+IVs: 31 HP / 0 Atk / 20 Def / 31 SpA / 20 SpD / 31 Spe
+- Air Slash
+- Sleep Powder
+- Gust
+- Quiver Dance
+
+Paras @ Occa Berry
+Level: 11
+Ability: Dry Skin
+Nature: Brave
+IVs: 25 HP / 25 Atk / 20 Def / 0 SpA / 25 SpD / 20 Spe
+- Leech Life
+- Stun Spore
+- Slash
+- Spore
+
+Heracross @ Flame Orb
+Level: 12
+Ability: Guts
+Nature: Adamant
+IVs: 31 HP / 31 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Brick Break
+- Aerial Ace
+- Endure
+- Knock Off
 
 === TRAINER_BUG_CATCHER_CHARLIE ===
 Name: CHARLIE
@@ -10890,20 +11181,68 @@ Class: Bug Catcher
 Pic: Bug Catcher
 Gender: Male
 Music: Male
-Double Battle: No
-AI: Check Bad Move
+Double Battle: Yes
+AI: Check Bad Move / Check Viability
 
-Metapod
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Shuckle @ Leftovers
+Level: 9
+Ability: Sturdy
+Nature: Bold
+IVs: 31 HP / 0 Atk / 31 Def / 0 SpA / 31 SpD / 0 Spe
+- Sticky Web
+- Stealth Rock
+- Rock Tomb
+- Rest
 
-Caterpie
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ledian @ Light Clay
+Level: 10
+Ability: Iron Fist
+Nature: Calm
+IVs: 25 HP / 0 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Reflect
+- Light Screen
+- Ice Punch
+- Baton Pass
 
-Metapod
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Scyther @ Silver Powder
+Level: 10
+Ability: Technician
+Nature: Jolly
+IVs: 31 HP / 31 Atk / 25 Def / 0 SpA / 25 SpD / 31 Spe
+- Quick Attack
+- Wing Attack
+- Swords Dance
+- Dual Wingbeat
+
+Forretress @ Sitrus Berry
+Level: 11
+Ability: Sturdy
+Nature: Impish
+IVs: 31 HP / 25 Atk / 31 Def / 0 SpA / 25 SpD / 0 Spe
+- Rapid Spin
+- Gyro Ball
+- Toxic Spikes
+- Iron Defense
+
+Pinsir @ Hard Stone
+Level: 11
+Ability: Mold Breaker
+Nature: Adamant
+IVs: 25 HP / 25 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Rock Tomb
+- X-Scissor
+- Focus Energy
+- Brick Break
+
+Scizor @ Metal Coat
+Level: 12
+Ability: Technician
+Nature: Adamant
+IVs: 31 HP / 31 Atk / 25 Def / 0 SpA / 25 SpD / 25 Spe
+- Bullet Punch
+- U-Turn
+- Knock Off
+- Protect
 
 === TRAINER_TWINS_ELI_ANNE_2 ===
 Name: ELI & ANNE
