@@ -2158,17 +2158,11 @@ const struct MoveInfo gMovesInfo[MOVES_COUNT_ALL] =
         .description = COMPOUND_STRING(
             "A rampage of 2 to\n3 turns "
             "that\nconfuses the user."),
-        #if B_UPDATED_MOVE_DATA >= GEN_5
-            .power = 120,
-        #elif B_UPDATED_MOVE_DATA == GEN_4
-            .power = 90,
-        #else
-            .power = 70,
-        #endif
+        .power = 120
         .effect = EFFECT_HIT,
         .type = TYPE_GRASS,
         .accuracy = 100,
-        .pp = B_UPDATED_MOVE_DATA >= GEN_5 ? 10 : 20,
+        .pp = 20,
         .target = MOVE_TARGET_RANDOM,
         .priority = 0,
         .category = DAMAGE_CATEGORY_SPECIAL,
