@@ -1271,13 +1271,6 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
 #else
     #define BUTTERFREE_EXP_YIELD 160
 #endif
-        .baseHP        = 70,
-        .baseAttack    = 65,
-        .baseDefense   = 60,
-        .baseSpeed     = 90,
-        .baseSpAttack  = 90,
-        .baseSpDefense = 75,
-
 
     [SPECIES_BUTTERFREE] =
     {
